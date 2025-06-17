@@ -1,0 +1,104 @@
+@media(max-width:900px) {
+    body {
+        background-color: brown;
+    }
+.rightcon {
+    display: none;
+}
+    nav .link {
+        display:none;
+        width: 150px;
+        background-color: rgb(53, 48, 48);
+        position: absolute;
+        flex-direction: column;
+        top: 70px;
+        right: 20px;
+        padding: 0rem;
+        border-radius: 7px;
+    }
+
+    nav .link.active {
+        display: flex;
+    }
+
+    .hamburger {
+        display: flex;
+        
+    }
+    .ooimg{
+        display: flex;
+    }
+.mcontainer{
+    width: 100%;
+    /* border: 2px solid red; */
+    padding-top: 3rem;
+    font-size: 1rem;
+    
+}
+.content{
+    font-size: 1rem;
+}
+.liftcon2{
+    width: 100%;
+    /* border: 2px solid rgb(253, 247, 247); */
+    font-size: 1rem;
+    
+}
+.serhead {
+    text-align: center;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    font-size: 3rem;
+    /* border: 2px solid rgb(241, 245, 5); */
+}
+
+.rightcon2{
+    display: none;
+}
+.liftcon{
+    width: 90%;
+}
+.info{
+    width: 90%;
+}
+    .am1{
+        font-size: 2.5rem;
+    }
+    .am{
+        font-size: 2rem;
+    }
+    .mecolor{
+        font-size: 1.8rem;
+    }
+    .wd{
+        font-size: 1.3rem;
+  }
+
+  .ja1{
+    font-size: 2rem;
+  }
+  .ja{
+    font-size: 1.5rem;
+  }
+  .txtb{
+    font-size: 1.5rem;
+  }
+  .mecolor1{
+    font-size: 2.5rem;
+  }
+
+  .logp{
+    font-size: 2rem
+  }
+}
+
+
+
+
+
+.card:hover {
+    transform: translateY(-20px );
+  }
+  .logp{
+    
+  }
