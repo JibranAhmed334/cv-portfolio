@@ -5,6 +5,7 @@
 .rightcon {
     display: none;
 }
+
     nav .link {
         display:none;
         width: 150px;
@@ -26,6 +27,7 @@
         
     }
     .ooimg{
+        margin-left:40% ;
         display: flex;
     }
 .mcontainer{
